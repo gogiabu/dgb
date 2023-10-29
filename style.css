@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+}
+.section{
+    width: 1170px;
+    margin: auto;
+}
+.satauri1{
+    color: #000;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 38px;
+}
+label{
+    color: #000;
+    font-size: 15px;
+    font-weight: 700;
+}
+.ID{
+    margin-top: 28px;
+    
+}
+
+.box1{
+    width: 201px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #E0E0E0;
+    margin-top: 1px;
+}
+.Title{
+    margin-top: 28px;
+    margin-left: 19px;
+}
+.box2{
+    width: 593px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #E0E0E0;
+    
+   
+}
+.Created{
+    margin-top: 28px;
+    margin-left: 18px;
+}
+.box3{
+    width: 201px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #E0E0E0;
+    
+    
+}
+.search{
+    margin-top: 25px;
+    margin-left: 58px;
+
+}
+.box4{
+    width: 115px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #FFD43A;
+    border: none;
+    
+}
+::placeholder{
+    color: #ebebeb;
+}
+.div1{
+    width: 1172px;
+    margin: auto;
+}
+.satauri2{
+    color: #000;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 66px;
+}
+
+table{
+    margin-top: 23px;
+    margin: auto;
+}
+th td{
+    font-size: 15px;
+}
+th {
+    font-weight: 700;
+}
+.th1{
+    text-align: center;
+    width: 72px;
+    height: 57px;
+}
+
+.th2{
+    text-align: left;
+     width: 444px;
+     height: 57px;
+     padding-left: 23px;
+ 
+    
+}
+.th3{
+    text-align: center;
+    width: 276px;
+    height: 57px;
+}
+
+
+.th4{
+    text-align: center;
+    width: 190px;
+    height: 57px;
+}
+.th5{
+    text-align: center;
+    width: 190px;
+    height: 57px;
+}
+.sveti1{
+    text-align: center;
+    font-weight: 700;
+}
+.sveti2{
+    text-align: left;
+    font-weight: 500;
+    padding: 23px;
+}
+.sveti3{
+    color:#f00;
+    text-align: center;
+    font-weight: 700;
+}
+.sveti4{
+    text-align: center;
+    font-weight: 500;
+}
+.sveti5{
+    text-align: center;
+    font-weight: 500;
+}
+.button1{
+    width: 115px;
+    height: 36px;
+    background-color:#FFD43A ;
+    border:none
+}
+.button2{
+    width: 115px;
+    height: 36px;
+    background-color:#f00 ;
+    border:none
+}
